@@ -1,4 +1,0 @@
-User-Agent: *
-Allow: /
-
-Sitemap: https://zenime.site/sitemap.xml
