@@ -1,0 +1,67 @@
+{
+    "1495484580411736216": {
+        "counter": 5,
+        "pending": {
+            "1510637683762794738": {
+                "ticket_num": 1,
+                "user_id": 1489549280363548774,
+                "username": "Kudo",
+                "category": "Other",
+                "reason": "urm idk",
+                "claimed": true,
+                "claimed_by": 1489549280363548774,
+                "claimed_by_name": "Kudo",
+                "channel_id": 1510637771243524298,
+                "claim_message_id": 1510637683762794738
+            },
+            "1510677333491716177": {
+                "ticket_num": 2,
+                "user_id": 1489549280363548774,
+                "username": "Kudo",
+                "category": "General Support",
+                "reason": "s",
+                "claimed": true,
+                "claimed_by": 1015817994292711608,
+                "claimed_by_name": "Stella",
+                "channel_id": 1510677360993898630,
+                "claim_message_id": 1510677333491716177
+            },
+            "1510677575486279752": {
+                "ticket_num": 3,
+                "user_id": 1015817994292711608,
+                "username": "Stella",
+                "category": "Bug Report",
+                "reason": "Animepahe buffering",
+                "claimed": true,
+                "claimed_by": 1489549280363548774,
+                "claimed_by_name": "Kudo",
+                "channel_id": 1510677752037118136,
+                "claim_message_id": 1510677575486279752
+            },
+            "1511013257001959568": {
+                "ticket_num": 4,
+                "user_id": 1489549280363548774,
+                "username": "Kudo",
+                "category": "Website Issue",
+                "reason": "hello",
+                "claimed": true,
+                "claimed_by": 1015817994292711608,
+                "claimed_by_name": "Stella",
+                "channel_id": 1511033301782233138,
+                "claim_message_id": 1511013257001959568
+            },
+            "1549709255379263529": {
+                "ticket_num": 5,
+                "user_id": 1489549280363548774,
+                "username": "! \ud835\udc0a\u1d1c\u1d05\u1d0f",
+                "category": "Other Server Issue",
+                "reason": "fuck you",
+                "claimed": true,
+                "claimed_by": 1489549280363548774,
+                "claimed_by_name": "! \ud835\udc0a\u1d1c\u1d05\u1d0f",
+                "channel_id": 1549709417631719434,
+                "claim_message_id": 1549709255379263529
+            }
+        }
+    }
+}

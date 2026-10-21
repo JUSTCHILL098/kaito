@@ -1,0 +1,23 @@
+{
+    "banned_words": [
+        "fuck", "fuk", "fck", "fuc", "fuckin", "fucking", "fucked", "fucker", "fuckers",
+        "motherfucker", "motherfuckers", "f u c k",
+        "shit", "sht", "sh1t", "shitty", "shits", "shitting", "bullshit",
+        "horseshit", "dipshit", "shithead", "shitstain", "batshit", "s h i t",
+        "bitch", "b1tch", "bitches", "bitchy", "b i t c h",
+        "ass", "a s s", "arse", "asses", "asshole", "assholes", "asshat",
+        "dumbass", "jackass", "badass",
+        "damn", "damned", "dammit", "damnit", "goddamn", "goddammit", "d a m n",
+        "dick", "d1ck", "dicks", "dickhead", "dickheads",
+        "pussy", "pussies", "pussey",
+        "cunt", "cunts", "c u n t",
+        "nigger", "niggers", "nigga", "niggas", "n1gger", "n1gga",
+        "retard", "retarded", "retards", "r3tard",
+        "slut", "sluts", "slutty", "sl1t",
+        "whore", "whores", "whoring", "wh0re",
+        "bastard", "bastards", "b4stard",
+        "crap", "crappy", "hell",
+        "wtf", "stfu",
+        "piss", "pissed", "pissing", "p1ss"
+    ]
+}
